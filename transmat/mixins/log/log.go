@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
 	Helper functions for emitting structured logs to the rio.Monitor.
 
 	These functions encompass most common lifecycle events in a transmat,

@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
 	`guid.New` generates a string that functions as a unique identifier.
 
 	This is roughly based on some "betterguid" stuff based on firebase "push ids", though rather tweaked to a slightly different aesthetic.

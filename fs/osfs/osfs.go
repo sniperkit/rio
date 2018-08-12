@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package osfs
 
 import (
@@ -6,7 +11,6 @@ import (
 	"syscall"
 
 	. "github.com/warpfork/go-errcat"
-
 	"go.polydawn.net/rio/fs"
 )
 

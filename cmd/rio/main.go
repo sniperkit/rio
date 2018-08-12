@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
@@ -12,13 +17,12 @@ import (
 	"github.com/polydawn/refmt"
 	"github.com/polydawn/refmt/json"
 	. "github.com/warpfork/go-errcat"
-	"gopkg.in/alecthomas/kingpin.v2"
-
 	"go.polydawn.net/go-timeless-api"
 	"go.polydawn.net/go-timeless-api/rio"
 	"go.polydawn.net/rio/fs"
 	"go.polydawn.net/rio/fs/osfs"
 	"go.polydawn.net/rio/fsOp"
+	"gopkg.in/alecthomas/kingpin.v2"
 )
 
 func main() {

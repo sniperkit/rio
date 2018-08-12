@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 ## ignore go build outputs
 /bin/
 /.gopath/pkg/

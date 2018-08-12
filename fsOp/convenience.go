@@ -1,10 +1,14 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package fsOp
 
 import (
 	"os"
 
 	. "github.com/warpfork/go-errcat"
-
 	"go.polydawn.net/rio/fs"
 )
 

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package stitch
 
 import (
@@ -8,7 +13,6 @@ import (
 	"sync"
 
 	. "github.com/warpfork/go-errcat"
-
 	"go.polydawn.net/go-timeless-api"
 	"go.polydawn.net/go-timeless-api/rio"
 	"go.polydawn.net/rio/cache"

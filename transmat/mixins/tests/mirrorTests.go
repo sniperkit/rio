@@ -1,10 +1,14 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package tests
 
 import (
 	"context"
 
 	. "github.com/smartystreets/goconvey/convey"
-
 	"go.polydawn.net/go-timeless-api"
 	"go.polydawn.net/go-timeless-api/rio"
 	"go.polydawn.net/rio/fs"

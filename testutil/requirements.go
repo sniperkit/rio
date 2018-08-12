@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package testutil
 
 import (
@@ -8,7 +13,6 @@ import (
 	"testing"
 
 	"github.com/smartystreets/goconvey/convey"
-
 	"go.polydawn.net/rio/caps"
 )
 

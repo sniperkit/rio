@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // +build linux
 
 // We needed linx-specific syscalls not exported by the standard lib in order to get

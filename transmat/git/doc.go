@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
 	The git transmat can unpack filesystems from the Git version control system.
 
 	The features of this are intentionally limited for rio's purposes:

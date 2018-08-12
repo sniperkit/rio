@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
@@ -10,7 +15,6 @@ import (
 	"time"
 
 	. "github.com/smartystreets/goconvey/convey"
-
 	"go.polydawn.net/go-timeless-api/rio"
 	"go.polydawn.net/rio/fs"
 	"go.polydawn.net/rio/fs/osfs"

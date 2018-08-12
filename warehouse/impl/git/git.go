@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
 	The git warehouse is a repository style warehouse.
 	This means that the hashes given represent a given state of the repository
 	instead of describing the state of a fileset.
@@ -33,7 +38,6 @@ import (
 	"go.polydawn.net/go-timeless-api/rio"
 	riofs "go.polydawn.net/rio/fs"
 	"go.polydawn.net/rio/warehouse"
-
 	srcd_osfs "gopkg.in/src-d/go-billy.v4/osfs"
 	srcd_git "gopkg.in/src-d/go-git.v4"
 	"gopkg.in/src-d/go-git.v4/config"

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package rioexecclient_test
 
 import (
@@ -7,7 +12,6 @@ import (
 	"testing"
 
 	. "github.com/smartystreets/goconvey/convey"
-
 	"go.polydawn.net/go-timeless-api"
 	"go.polydawn.net/go-timeless-api/rio"
 	"go.polydawn.net/rio/client"

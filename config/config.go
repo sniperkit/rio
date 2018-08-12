@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
 	Helpers for loading contextual config.
 
 	Config for Rio means "things that are the host machine operator's concerns".

@@ -1,10 +1,14 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package osfs
 
 import (
 	"testing"
 
 	. "github.com/smartystreets/goconvey/convey"
-
 	"go.polydawn.net/rio/fs"
 	"go.polydawn.net/rio/fs/tests"
 	"go.polydawn.net/rio/testutil"

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package placer
 
 import (
@@ -6,7 +11,6 @@ import (
 	"strings"
 
 	. "github.com/warpfork/go-errcat"
-
 	"go.polydawn.net/go-timeless-api/rio"
 	"go.polydawn.net/rio/config"
 	"go.polydawn.net/rio/fs"

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package git
 
 import (
@@ -7,9 +12,6 @@ import (
 	"io/ioutil"
 
 	. "github.com/warpfork/go-errcat"
-	"gopkg.in/src-d/go-git.v4/plumbing/filemode"
-	"gopkg.in/src-d/go-git.v4/plumbing/object"
-
 	"go.polydawn.net/go-timeless-api"
 	"go.polydawn.net/go-timeless-api/rio"
 	"go.polydawn.net/go-timeless-api/util"
@@ -21,6 +23,8 @@ import (
 	"go.polydawn.net/rio/transmat/mixins/filters"
 	"go.polydawn.net/rio/transmat/mixins/fshash"
 	gitWarehouse "go.polydawn.net/rio/warehouse/impl/git"
+	"gopkg.in/src-d/go-git.v4/plumbing/filemode"
+	"gopkg.in/src-d/go-git.v4/plumbing/object"
 )
 
 var (

@@ -1,10 +1,14 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package nilFS
 
 import (
 	"time"
 
 	. "github.com/warpfork/go-errcat"
-
 	"go.polydawn.net/rio/fs"
 )
 

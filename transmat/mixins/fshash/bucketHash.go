@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package fshash
 
 import (
@@ -7,7 +12,6 @@ import (
 
 	"github.com/polydawn/refmt/cbor"
 	"github.com/polydawn/refmt/tok"
-
 	"go.polydawn.net/rio/fs"
 	"go.polydawn.net/rio/lib/treewalk"
 )

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package fsOp
 
 import (
@@ -8,7 +13,6 @@ import (
 
 	. "github.com/smartystreets/goconvey/convey"
 	"github.com/warpfork/go-errcat"
-
 	"go.polydawn.net/rio/fs"
 	"go.polydawn.net/rio/fs/osfs"
 	. "go.polydawn.net/rio/testutil"

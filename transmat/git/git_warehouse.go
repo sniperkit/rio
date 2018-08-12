@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package git
 
 import (
@@ -6,7 +11,6 @@ import (
 	"net/url"
 
 	. "github.com/warpfork/go-errcat"
-
 	"go.polydawn.net/go-timeless-api"
 	"go.polydawn.net/go-timeless-api/rio"
 	"go.polydawn.net/rio/fs"

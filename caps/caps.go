@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
 	Provides helper functions for checking if we have some functional sets of capabilities.
 */
 package caps

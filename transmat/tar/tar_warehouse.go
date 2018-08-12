@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package tartrans
 
 import (
@@ -5,7 +10,6 @@ import (
 	"net/url"
 
 	. "github.com/warpfork/go-errcat"
-
 	"go.polydawn.net/go-timeless-api"
 	"go.polydawn.net/go-timeless-api/rio"
 	"go.polydawn.net/rio/transmat/mixins/log"

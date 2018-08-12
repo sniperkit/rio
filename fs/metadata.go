@@ -1,6 +1,13 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package fs
 
-import "time"
+import (
+	"time"
+)
 
 type Metadata struct {
 	Name     RelPath   // filename

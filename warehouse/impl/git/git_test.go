@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package git
 
 import (
@@ -19,7 +24,6 @@ import (
 	"go.polydawn.net/go-timeless-api/rio"
 	riofs "go.polydawn.net/rio/fs"
 	"go.polydawn.net/rio/testutil"
-
 	"gopkg.in/src-d/go-git.v4/plumbing"
 	"gopkg.in/src-d/go-git.v4/plumbing/object"
 	"gopkg.in/src-d/go-git.v4/plumbing/transport"

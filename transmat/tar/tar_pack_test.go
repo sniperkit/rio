@@ -1,10 +1,14 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package tartrans
 
 import (
 	"testing"
 
 	. "github.com/smartystreets/goconvey/convey"
-
 	"go.polydawn.net/rio/testutil"
 	"go.polydawn.net/rio/transmat/mixins/tests"
 )

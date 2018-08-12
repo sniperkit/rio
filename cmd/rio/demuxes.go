@@ -1,8 +1,12 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
 	. "github.com/warpfork/go-errcat"
-
 	"go.polydawn.net/go-timeless-api/rio"
 	"go.polydawn.net/rio/transmat/git"
 	"go.polydawn.net/rio/transmat/tar"
